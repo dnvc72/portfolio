@@ -1,0 +1,251 @@
+.navigation{
+    display: inline;
+    vertical-align:middle;
+    text-align: center;
+    padding:10px;
+    text-decoration: none;
+}
+
+.link{
+    color:purple;
+}
+
+.link:hover{
+    color:black;
+}
+
+.navigationitem{
+    color:pink;
+    font-weight:bold;
+    text-decoration:none;
+    font-size:17px;
+    margin-inline:10px;
+}
+
+.navigationitem:hover{
+    color:white;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+.navigationitem:visited{
+    color:pink;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+.dropdownitem{
+    color:rgb(10, 10, 33);
+    background-color:pink;
+}
+
+.dropdownitem:active{
+    color:rgb(10, 10, 33);
+    background-color:pink;
+}
+
+.navigationbar{
+    background-color:rgb(10, 10, 33);
+}
+
+.intro{
+    background-color:mistyrose;
+}
+
+.maintitle{
+    font-size:150px;
+    text-align:left;
+    margin-left:45px;
+    font-weight:bolder;
+    color:rgb(18, 18, 59);
+}
+
+.table{
+    border:10px;
+    border-color:rgb(236, 144, 159);
+}
+
+.navpadding{
+    padding-top:15px;
+}
+
+#pfp{
+    width:600px;
+    position:absolute;
+    right:10px;
+    bottom:-13px;
+}
+
+body{
+    background-color:mistyrose;
+}
+
+.infobox{
+    background-image:linear-gradient(rgb(255, 204, 199), pink);
+    color:rgb(10, 10, 33);
+}
+
+.biotext{
+    font-size:17px;
+}
+
+.UIUCmain{
+    width:600px;
+}
+
+.gavelimg{
+    width:550px;
+    margin-top:10px;
+    margin-bottom:10px;
+    position:absolute;
+    right:0px;
+    top:250px;
+    transform:scalex(-1);
+}
+
+.blondeimg{
+    transform:scalex(-1);
+    position:absolute;
+    bottom:-727px;
+    left:-10px;
+}
+
+.UIUCimg{
+    width:550px;
+    position:absolute;
+    right:150px;
+    top:300px;
+}
+
+.Brownimg{
+    width:600px;  
+    position:absolute;
+    left:150px;  
+    top:1330px;
+}
+
+.illinilogo{
+    width:165px;
+    position:absolute;
+    right:60px;
+    top:600px;
+    transform:rotate(10deg);
+
+}
+
+.brownlogo{
+    width:165px;
+    position:absolute;
+    left:50px;
+    top:1540px;
+    transform:rotate(-10deg);
+}
+
+#Westwood{
+    width:430px;
+    position:absolute;
+    left:-45px;
+}
+
+#vintagefrills{
+    width:250px;
+    margin-left:45px;
+    margin-top:30px;
+    margin-bottom:30px;
+    filter:saturate(150%);
+}
+
+#dress{
+    width:150px;
+    position:absolute;
+    transform:rotate(10deg);
+    top:420px;
+    left:145px;
+}
+
+#brooch{
+    width:350px;
+    filter:brightness(160%);
+    filter:saturate(110%);
+    position:absolute;
+    top:450px;
+    left:585px;
+    transform:scaleX(-1);
+}
+
+#Brontes{
+    width:400px;
+    position:absolute;
+    top:325px;
+    right:35px;
+}
+
+#coffin{
+    width:375px;
+    position:absolute;
+    right:475px;
+    top:380px;
+}
+
+#austen{
+    width:380px;
+    position:absolute;
+    top:660px;
+    left:35px;
+    filter:brightness(80%);
+    filter:contrast(110%);
+}
+
+#shakespeare{
+    width:300px;
+    position:absolute;
+    right:125px;
+}
+
+#rose{
+    width:350px;
+    position:absolute;
+    left:250px;
+    top:1000px;
+    transform:Scalex(-1);
+}
+
+#dickens{
+    width:350px;
+    position:absolute;
+    left:50px;
+    top:1395px;
+}
+
+.list-group-item{
+    background-color:transparent;
+    border-width:0px;
+}
+
+#clock{
+    width:175px;
+    position:absolute;
+    left:765px;
+    top:1350px;
+    z-index:6;
+}
+
+.resumesection{
+    color:rgb(82, 0, 23);;
+}
+
+#resumeaddress{
+    text-align:right;
+    margin-right:20px;
+    margin-top:40px;
+}
+
+#resumeheading{
+    font-size:55px;
+    margin-top:40px;
+    margin-left:50px;
+}
+
+.resumecontent{
+    margin:5px;
+}
