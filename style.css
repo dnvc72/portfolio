@@ -103,9 +103,11 @@ body{
 }
 
 .blondeimg{
-    position:relative;
+    position:absolute;
     transform:scalex(-1);
     left:0px;
+    position:relative;
+    bottom:0px;
 }
 
 .UIUCimg{
