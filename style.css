@@ -71,9 +71,9 @@
 
 #pfp{
     width:600px;
-    position:absolute;
+    position:relative;
     right:0px;
-    bottom:0px;
+    bottom:auto;
 }
 
 body{
@@ -105,9 +105,8 @@ body{
 
 .blondeimg{
     transform:scalex(-1);
-    position:absolute;
-    bottom:0px;
-    left:20px;
+    position:relative;
+    bottom:auto;
 }
 
 .UIUCimg{
