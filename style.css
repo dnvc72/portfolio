@@ -73,7 +73,7 @@
     width:600px;
     position:absolute;
     right:0px;
-    top:-25px;
+    bottom:0px;
 }
 
 body{
@@ -106,8 +106,8 @@ body{
 .blondeimg{
     transform:scalex(-1);
     position:absolute;
-    bottom:-727px;
-    left:-10px;
+    bottom:0px;
+    left:20px;
 }
 
 .UIUCimg{
