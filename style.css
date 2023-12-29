@@ -82,6 +82,7 @@ body{
 .infobox{
     background-image:linear-gradient(rgb(255, 204, 199), pink);
     color:rgb(10, 10, 33);
+    z-index:0;
 }
 
 .biotext{
@@ -106,6 +107,7 @@ body{
     position:absolute;
     transform:scalex(-1);
     left:0px;
+    z-index:1;
 }
 
 .UIUCimg{
