@@ -71,9 +71,9 @@
 
 #pfp{
     width:600px;
-    position:relative;
+    position:absolute;
     right:0px;
-    top:100px;
+    top:-25px;
 }
 
 body{
