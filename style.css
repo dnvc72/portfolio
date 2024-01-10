@@ -105,7 +105,7 @@ body{
 .blondeimg{
     position:absolute;
     transform:scalex(-1);
-    left:0px;
+    left:-25px;
 }
 
 .UIUCimg{
